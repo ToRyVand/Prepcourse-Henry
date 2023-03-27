@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del Prepcourse Hemry
+Este proyecto es una prueba de como crear un repositorio de gitHub y clonarlo a mi escritorio local.
